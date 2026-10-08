@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# I am Nidhi Gupta
+## Hi there, 👋 I am Nidhi Gupta
 
 **MIS & Reporting Analyst** with 4+ years of experience in HR MIS and workforce reporting (Flipkart, Genpact).
 I build reports and dashboards with Excel, VBA, SQL and Power BI, and I am growing into data analytics.
